@@ -1,5 +1,3 @@
-Julio Antunes Santos de Oliveira
-
 # RELATÓRIO DE IMPLEMENTAÇÃO DE SERVIÇOS AWS
 
 Data: 13/01/2026
