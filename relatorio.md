@@ -2,6 +2,7 @@
 
 Data: 13/01/2026
 Empresa: Abstergo Industries
+
 Responsável: Julio Antunes Santos de Oliveira
 
 ## Introdução
